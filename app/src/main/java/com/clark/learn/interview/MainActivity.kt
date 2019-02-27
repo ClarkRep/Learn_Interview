@@ -1,7 +1,6 @@
-gipackage com.clark.learn.interview
-
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.clark.learn.interview.R
 
 class MainActivity : AppCompatActivity() {
 
