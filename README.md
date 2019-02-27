@@ -1,7 +1,7 @@
 # Learn_Interview
 
 ## Java
-* [JVM 虚拟机相关](.jvm/jvm.md)
+* [JVM 虚拟机相关](jvm/jvm.md)
 * [String相关的操作，字符串在常量池、堆内存的存在方式，很详细很有意思的一篇博客](https://www.jianshu.com/p/d416a074409d)
 * [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html)  
 > 1、HashMap支持null Key和null Value；Hashtable不允许。这是因为HashMap对null进行了特殊处理，将null的hashCode值定为了0，从而将其存放在哈希表的第0个bucket；  
