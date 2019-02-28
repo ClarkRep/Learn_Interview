@@ -77,3 +77,22 @@ char、int、long、float、double、boolean、String、null 对应的具体值�
 > 2、相对偏移量。（指向实例的变量，方法的指针）  
 > 3、一个间接定位到对象的句柄。  
 
+## 2、虚拟机的运行时数据区的异常情况
+
+* 程序计数器  
+此内存区域是唯一一个在Java虚拟机规范中没有规定任何 **OutOfMemoryError** 情况的区域。  
+
+* Java虚拟机栈  
+1、如果线程请求的栈深度大于虚拟机所允许的深度，将抛出 **StackOverflowError** 异常；  
+2、如果虚拟机可以动态扩展，如果扩展时无法申请到足够的内存，就会抛出 **OutOfMemoryError** 异常。  
+
+* 本地方法栈
+与虚拟机栈一样，本地方法栈区域也会抛出  **StackOverflowError** 和 **OutOfMemoryError** 异常。
+
+* Java堆  
+如果在堆中没有内存完成实例分配，并且堆也无法再扩展时，将会抛出 **OutOfMemoryError** 异常。
+
+* 方法区  
+1、当方法区无法满足内存分配需求时，将抛出 **OutOfMemoryError** 异常；  
+2、既然运行时常量池是方法区的一部分，自然受到方法区内存的限制，当常量池无法再申请到内存时会抛出 **OutOfMemoryError** 异常。
+
