@@ -90,7 +90,7 @@ char、int、long、float、double、boolean、String、null 对应的具体值�
 1、如果线程请求的栈深度大于虚拟机所允许的深度，将抛出 **StackOverflowError** 异常；  
 2、如果虚拟机可以动态扩展，如果扩展时无法申请到足够的内存，就会抛出 **OutOfMemoryError** 异常。  
 
-* 本地方法栈
+* 本地方法栈  
 与虚拟机栈一样，本地方法栈区域也会抛出  **StackOverflowError** 和 **OutOfMemoryError** 异常。
 
 * Java堆  
