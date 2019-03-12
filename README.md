@@ -13,7 +13,9 @@
 
 
 ## Android
-
+### ANR 异常
+* [android ANR、traces文件获取及实例分析](https://blog.csdn.net/cui130/article/details/82686732)
+* [Android ANR log trace日志文件分析](https://blog.csdn.net/qq_25804863/article/details/49111005)
 
 ## 数据结构&算法
 [算法学习](https://github.com/zdy793410600/Learn_Algorithm)
