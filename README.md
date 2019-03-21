@@ -17,10 +17,12 @@
 
 ## 三、Android
 
-
 ### ANR 异常
 * [android ANR、traces文件获取及实例分析](https://blog.csdn.net/cui130/article/details/82686732)
 * [Android ANR log trace日志文件分析](https://blog.csdn.net/qq_25804863/article/details/49111005)
+
+### Android缓存机制
+* [彻底解析Android缓存机制——LruCache](https://www.jianshu.com/p/b49a111147ee)
 
 ## 四、设计模式
 
