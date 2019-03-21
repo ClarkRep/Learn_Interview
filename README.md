@@ -1,9 +1,9 @@
 # Learn_Interview
 
-## 知识体系
+## 一、知识体系
 * [刘望舒的原创知识体系](http://liuwangshu.cn/system/)
 
-## Java
+## 二、Java
 * [JVM 虚拟机相关](jvm/jvm.md)
 * [String相关的操作，字符串在常量池、堆内存的存在方式，很详细很有意思的一篇博客](https://www.jianshu.com/p/d416a074409d)
 * [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html)  
@@ -15,17 +15,19 @@
 
 
 
-## Android
+## 三、Android
 
 
 ### ANR 异常
 * [android ANR、traces文件获取及实例分析](https://blog.csdn.net/cui130/article/details/82686732)
 * [Android ANR log trace日志文件分析](https://blog.csdn.net/qq_25804863/article/details/49111005)
 
-## 数据结构&算法
+## 四、设计模式
+
+## 五、数据结构&算法
 [算法学习](https://github.com/zdy793410600/Learn_Algorithm)
 
 
-## 网络
+## 六、网络
 
 1、[Https(SSL/TSL)原理之深入浅出](https://www.cnblogs.com/digdeep/p/4832885.html)
