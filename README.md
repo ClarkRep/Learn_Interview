@@ -1,5 +1,8 @@
 # Learn_Interview
 
+## 知识体系
+* [刘望舒的原创知识体系](http://liuwangshu.cn/system/)
+
 ## Java
 * [JVM 虚拟机相关](jvm/jvm.md)
 * [String相关的操作，字符串在常量池、堆内存的存在方式，很详细很有意思的一篇博客](https://www.jianshu.com/p/d416a074409d)
@@ -13,8 +16,7 @@
 
 
 ## Android
-### 知识体系
-* [刘望舒的原创知识体系](http://liuwangshu.cn/system/)
+
 
 ### ANR 异常
 * [android ANR、traces文件获取及实例分析](https://blog.csdn.net/cui130/article/details/82686732)
