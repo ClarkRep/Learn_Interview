@@ -23,6 +23,7 @@
 
 ### Android缓存机制
 * [彻底解析Android缓存机制——LruCache](https://www.jianshu.com/p/b49a111147ee)
+* [RecyclerView一些你可能需要知道的优化技术](https://www.jianshu.com/p/1d2213f303fc)
 
 ## 四、设计模式
 
